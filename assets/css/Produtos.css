@@ -1,0 +1,43 @@
+/*inicio do Produtos*/
+.produtos
+{
+	padding: 20px;
+	background-color: #4D5DAB !important;
+}
+#produtos{
+	background-color: #4D5DAB !important;
+}
+
+.produtos p
+{
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+.confira h1
+{
+	text-align: center;
+	margin-left: 80px;
+	margin-top: 20px;
+	color: white;
+	font-size: 40px;
+}
+.vantagens{
+	text-align: center;
+}
+.vantagens p{
+	color: white;
+}
+.produtos img
+{
+	margin-left: 200px;
+
+	height: 100px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+
+}
+
+
+/*fim do Produtos*/

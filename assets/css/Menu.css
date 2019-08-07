@@ -1,0 +1,18 @@
+.Menu
+{
+	padding: 4px;
+	background-color: #4D5DAB !important;
+	text-align: center;
+	color: white;
+	font-weight: lighter;
+}
+#Menu{
+	background-color: #4D5DAB !important;
+}
+.Menu p{
+	color: white !important;
+}
+.Menu h4{
+	background-color: #4D5DAB !important;
+}
+

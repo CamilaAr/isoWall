@@ -1,0 +1,11 @@
+.Cabecalho
+{
+	padding: 4px;
+	background-color: #4D5DAB !important;
+	text-align: center;
+	color: white;
+	font-weight: lighter;
+}
+.Cabecalho p{
+	color: white !important;
+}

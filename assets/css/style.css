@@ -1,0 +1,25 @@
+/* --- Google Fonts --- */
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
+
+/* --- Components design --- */
+@import url("Contatos.css");
+@import url("Banner.css");
+@import url("Produtos.css");
+@import url("Sobrenos.css");
+@import url("Logo.css");
+@import url("Cabecalho.css");
+@import url("Menu.css");
+@import url("Aplicacoes.css");
+
+{
+	padding: 0px;
+	font-size:18px; 
+	text-decoration:none;
+	color:#333;
+	list-style:none;
+	background-color: #4D5DAB; 
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+	background: transparent !important; 
+}

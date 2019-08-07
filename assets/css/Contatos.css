@@ -1,0 +1,59 @@
+/*inicio do contato*/
+
+.contato
+{
+	background-color: #00599D;
+	padding: 40px;
+}
+.contato p
+{	
+
+	text-align: left;
+	color: #FFFFFF;
+	font-size: 12px;
+
+}
+
+
+.contato h4
+{
+	text-align: justify;
+	color: #A8CF38;
+	font-size: 20px;
+
+}
+.face h4
+{	margin-top: 10px;
+	text-align: left;
+	color: #FFFFFF;
+	font-size: 15px;
+}
+
+.contato h6
+{
+	margin-top: 15px;
+	text-align: center;  
+	color: #FFFFFF;
+	font-size: 15px;
+
+}
+.imgs{
+	margin-top: -20px;
+	margin-left: 40px;
+}
+.imgs2{
+	margin-top: -4px;
+	margin-left: 40px;
+}
+
+.col{
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:11;
+	width:100%;
+	height:100%;
+	filter: alpha(opacity=65);
+}
+$grid-columns: 1 !default;
+/*fim do contato*/
