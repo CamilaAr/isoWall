@@ -1,0 +1,15 @@
+
+.titulos h3{
+	color: #696AA3;
+}
+
+.titulos h1{
+	text-align: center;
+	color: #ABA543;
+}
+
+.blog img{
+	width: 250px;
+    height: auto;
+    display: block;
+}
