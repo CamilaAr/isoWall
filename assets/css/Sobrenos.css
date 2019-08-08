@@ -1,7 +1,8 @@
 #sn
 {
 	background-color: white;
-	padding: 80px 0;
+	padding-top: 80px;
+	padding-bottom: 20px;
 }
 
 .sn h3
@@ -10,6 +11,7 @@
 	padding-bottom: 40px;
 	text-transform: uppercase;
 	color: #696AA3;
+	 font-weight: bold;
 
 }
 .sn h2
@@ -17,10 +19,20 @@
 
 	text-transform: uppercase;
 	color: #ABA543;
+	 font-weight: bold;
 
 }
 .sn p {
   color: black;
+  font-size: 14px;
+}
+
+.sn img{
+	width: 400px;
+    height: auto;
+    display: block;
+    
+}
 }
 
 

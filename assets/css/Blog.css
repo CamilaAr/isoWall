@@ -1,11 +1,18 @@
-
+#blog{
+	padding-bottom: 30px;
+}
 .titulos h3{
 	color: #696AA3;
+	 font-weight: bold;
+}
+.blog p{
+	font-size: 14px;
 }
 
 .titulos h1{
 	text-align: center;
 	color: #ABA543;
+	 font-weight: bold;
 }
 
 .blog img{

@@ -1,11 +1,38 @@
 .Cabecalho
 {
-	padding: 4px;
+	padding: 2px;
 	background-color: #4D5DAB !important;
 	text-align: center;
 	color: white;
 	font-weight: lighter;
 }
+#Cabecalho{
+	background-color: #4D5DAB !important;
+}
 .Cabecalho p{
+	color: white;
+	margin-top: 7px;
+}
+
+.Cabecalho p i{
+	color: #4D5DAB !important;
+	border-radius: 100%;
+	border:1px solid white;
+	background-color: white;
+	margin-top: 0px;
+	padding: 5px 5px;
+	
+}
+
+.tel{
+	 font-weight: bold;
+	 font-size: 14px;
+}
+.rs p i{
 	color: white !important;
+	border-radius: 100%;
+	border:1px solid #4D5DAB;
+	background-color: #4D5DAB;
+	margin-top: 0px;
+	padding: 5px 5px;
 }

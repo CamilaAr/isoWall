@@ -4,13 +4,21 @@
     display: block;
     
 }
+#aplicacoes {
+	padding-top: 30px;
+}
+.aplicacoes p{
+	font-size: 14px;
+}
 
 .aplicacoes h2{
 	color: #696AA3;
+	 font-weight: bold;
 }
 
 .aplicacoes h3{
-	margin-top: 30%;
+	margin-top: 20%;
 	color: #ABA543;
+	 font-weight: bold;
 }
 
